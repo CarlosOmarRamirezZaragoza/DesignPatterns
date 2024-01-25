@@ -1,2 +1,2 @@
-# DesignPatterns
-A course taken by Udemy about DesignPattern
+# Kotlin DesignPatterns
+A course taken by Udemy about DesignPattern using kotlin
