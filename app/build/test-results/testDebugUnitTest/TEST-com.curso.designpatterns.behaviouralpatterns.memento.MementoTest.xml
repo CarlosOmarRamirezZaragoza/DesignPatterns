@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.curso.designpatterns.behaviouralpatterns.memento.MementoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-06T21:59:18" hostname="MX-IT06221" time="0.034">
+  <properties/>
+  <testcase name="testMemento" classname="com.curso.designpatterns.behaviouralpatterns.memento.MementoTest" time="0.034"/>
+  <system-out><![CDATA[Current state is Initial state
+Current state is State 1
+Current state is State 2
+Current state is State 1
+Current state is Initial state
+Current state is State 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
