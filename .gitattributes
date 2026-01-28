@@ -1,0 +1,8 @@
+# Ignorar código generado
+**/build/** linguist-generated=true
+**/.gradle/** linguist-generated=true
+**/generated/** linguist-generated=true
+
+# Ignorar tests
+**/*Test.java linguist-generated=true
+**/*Test.kt linguist-generated=true
